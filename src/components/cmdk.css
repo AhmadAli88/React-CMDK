@@ -1,0 +1,8 @@
+/* styles/cmdk.css */
+.cmdk {
+    /* Your custom styles */
+    --cmdk-background: #ffffff;
+    --cmdk-foreground: #111827;
+    --cmdk-primary: #4f46e5;
+    --cmdk-border-radius: 12px;
+  }
